@@ -1,3 +1,3 @@
-module github.com/mikenevermindng/my-package
+module github.com/mikenevermindng/go-lib
 
 go 1.21.3
