@@ -1,4 +1,4 @@
-package print
+package printerest
 
 import "fmt"
 
